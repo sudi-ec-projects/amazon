@@ -1,2 +1,2 @@
-I am from dev branch updated
+I am from master branch updated
 need to commit
